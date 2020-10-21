@@ -15,3 +15,5 @@ git push origin master
 
 // 다른 컴퓨터
 git pull origin master
+
+// 위의 과정을 반복하면 됩니다.
